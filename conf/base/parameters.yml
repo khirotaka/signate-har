@@ -1,0 +1,8 @@
+# Parameters for the example pipeline. Feel free to delete these once you
+# remove the example pipeline from hooks.py and the example nodes in
+# `src/pipelines/`
+n_fold: 5
+n_epochs: 50
+learning_rate: 0.01
+nn_mid_features: 32
+batch_size: 64
